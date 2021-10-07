@@ -32,7 +32,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png",
-      "themeColor": "#6633CC"
+      "themeColor": "#808080"
     }
   }
 }

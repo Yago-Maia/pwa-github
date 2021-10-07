@@ -5,7 +5,7 @@
   "name": "pwa-github",
   "short_name": "pwa-github",
   "start_url": "/?utm_source=web_app_manifest",
-  "theme_color": "#6633CC",
+  "theme_color": "#808080",
   "orientation": "portrait",
   "icons": [
     {
